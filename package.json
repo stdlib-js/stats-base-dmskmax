@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dmskmax",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Calculate the maximum value of a double-precision floating-point strided array according to a mask.",
   "license": "Apache-2.0",
   "author": {
