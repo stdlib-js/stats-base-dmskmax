@@ -194,6 +194,27 @@ console.log( v );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/base/dmax`][@stdlib/stats/base/dmax]: calculate the maximum value of a double-precision floating-point strided array.
+-   [`@stdlib/stats/base/dmskmin`][@stdlib/stats/base/dmskmin]: calculate the minimum value of a double-precision floating-point strided array according to a mask.
+-   [`@stdlib/stats/base/dnanmax`][@stdlib/stats/base/dnanmax]: calculate the maximum value of a double-precision floating-point strided array, ignoring NaN values.
+-   [`@stdlib/stats/base/dnanmskmax`][@stdlib/stats/base/dnanmskmax]: calculate the maximum value of a double-precision floating-point strided array according to a mask, ignoring NaN values.
+-   [`@stdlib/stats/base/mskmax`][@stdlib/stats/base/mskmax]: calculate the maximum value of a strided array according to a mask.
+-   [`@stdlib/stats/base/smskmax`][@stdlib/stats/base/smskmax]: calculate the maximum value of a single-precision floating-point strided array according to a mask.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -254,6 +275,22 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/uint8]: https://github.com/stdlib-js/array-uint8
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dmax]: https://github.com/stdlib-js/stats-base-dmax
+
+[@stdlib/stats/base/dmskmin]: https://github.com/stdlib-js/stats-base-dmskmin
+
+[@stdlib/stats/base/dnanmax]: https://github.com/stdlib-js/stats-base-dnanmax
+
+[@stdlib/stats/base/dnanmskmax]: https://github.com/stdlib-js/stats-base-dnanmskmax
+
+[@stdlib/stats/base/mskmax]: https://github.com/stdlib-js/stats-base-mskmax
+
+[@stdlib/stats/base/smskmax]: https://github.com/stdlib-js/stats-base-smskmax
+
+<!-- </related-links> -->
 
 </section>
 
