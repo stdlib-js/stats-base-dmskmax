@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dmskmax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Calculate the maximum value of a double-precision floating-point strided array according to a mask.",
   "license": "Apache-2.0",
   "author": {
@@ -41,12 +41,12 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-error": "^0.1.0",
-    "@stdlib/math-base-assert-is-nan": "^0.1.0",
-    "@stdlib/math-base-assert-is-positive-zero": "^0.1.0",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.0",
-    "@stdlib/utils-library-manifest": "^0.1.0",
-    "@stdlib/utils-try-require": "^0.1.0"
+    "@stdlib/assert-is-error": "^0.1.1",
+    "@stdlib/math-base-assert-is-nan": "^0.1.1",
+    "@stdlib/math-base-assert-is-positive-zero": "^0.1.1",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.1.1",
+    "@stdlib/utils-library-manifest": "^0.1.1",
+    "@stdlib/utils-try-require": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/array-float64": "^0.1.0",
