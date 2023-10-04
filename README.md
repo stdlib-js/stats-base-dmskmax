@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import dmskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dmskmax@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dmskmax/tags). For example,
+
+```javascript
 import dmskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dmskmax@v0.1.1-esm/index.mjs';
 ```
 
@@ -175,7 +180,7 @@ import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/i
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
 import Uint8Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint8@esm/index.mjs';
-import dmskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dmskmax@v0.1.1-esm/index.mjs';
+import dmskmax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dmskmax@esm/index.mjs';
 
 var mask;
 var x;
